@@ -40,7 +40,7 @@ The script will output the accuracy of the trained model on the test dataset.
 
 You can also use the [cnn_svm_classifier.py](cnn_svm_classifier.py) notebook included in the notebooks directory to explore the code and visualize the results.
 
-To test the model on new images, you can add your images to the [new-test-data](new-test-data) directory and modify the [cnn_svm_classifier.py] script to load your images. Then, run the script to classify your images.
+To test the model on new images, you can add your images to the [new_test_images](new_test_images) directory and modify the [cnn_svm_classifier.py] script to load your images. Then, run the script to classify your images.
 
 # Requirements
 To run the code in this repository, you will need to install the following Python packages:
